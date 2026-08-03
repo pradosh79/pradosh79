@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Pradosh%20Mukherjee&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20•%20Laravel%20•%20AI%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=P.K.%20Mukhopadhayay&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20•%20Laravel%20•%20AI%20Engineer&descAlignY=60"/>
 
 <h1>👋 Welcome to my GitHub</h1>
 
