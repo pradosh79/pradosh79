@@ -1,179 +1,112 @@
-```markdown
-# 👋 Hi, I'm Pradosh Mukherjee
-
 <div align="center">
 
-### 🚀 Senior Full Stack Developer | Laravel Developer | AI Application Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Pradosh%20Mukherjee&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20•%20Laravel%20•%20AI%20Engineer&descAlignY=60"/>
 
-Building scalable web applications, REST APIs, AI-powered SaaS products, Shopify Apps, and WordPress Plugins.
+<h1>👋 Welcome to my GitHub</h1>
 
----
+<p>
+Building scalable software, AI-powered applications, Shopify Apps and enterprise web solutions.
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pradosh79&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;AI+Application+Developer;Shopify+App+Developer;WordPress+Plugin+Developer" />
 
 </div>
 
 ---
 
-## 💡 About Me
+# 🚀 About Me
 
-- 💼 Senior Full Stack Developer
-- 🧠 Passionate about AI-powered software development
-- ⚙️ Specialized in Laravel, PHP, CodeIgniter, React & Node.js
-- 🛒 Shopify App & WordPress Plugin Developer
-- 🌐 REST API & Microservice Development
-- 🤖 Building AI SaaS Applications
-- 📚 Always learning new technologies
+I'm a Full Stack Developer focused on building modern software using Laravel, PHP, React, Node.js and AI technologies.
+
+My interests include:
+
+- Enterprise Web Applications
+- AI SaaS Products
+- Shopify Apps
+- WordPress Plugins
+- REST API Development
+- System Architecture
+- Cloud Deployment
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Backend
 
-- PHP
-- Laravel
-- CodeIgniter
-- Node.js
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
 
 ### Frontend
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- jQuery
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</p>
 
 ### Database
 
-- MySQL
-- MongoDB
-- Redis
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
 
-### Cloud & DevOps
+### DevOps
 
-- Git
-- GitHub
-- Docker
-- Linux
-- Apache
-- Nginx
-
-### APIs
-
-- REST API
-- JWT Authentication
-- OAuth
-- Payment Gateway Integration
-- Shopify API
-- WordPress API
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" />
+</p>
 
 ### AI
 
-- OpenAI API
-- Claude API
-- AI Workflow Automation
-- Prompt Engineering
+OpenAI • Claude • Prompt Engineering • AI Automation
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradosh79&show_icons=true&theme=github_dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pradosh79&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pradosh79&theme=github-dark"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=pradosh79&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 📈 Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradosh79&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradosh79&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pradosh79&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 📂 Filedrop
-
-SaaS-based Shopify Application
-
-- Shopify Integration
-- Cloud Storage
-- Secure File Sharing
-- Merchant Dashboard
+| Project | Description |
+|---------|-------------|
+| 🚀 Filedrop | Shopify SaaS File Management Platform |
+| 🤖 AI Product Writer | AI Bulk Product Description & SEO Generator |
+| 🎥 AI CCTV Monitoring | AI Surveillance SaaS |
+| 🌐 Enterprise REST APIs | Laravel JWT & OAuth APIs |
 
 ---
 
-### 🤖 AI Bulk Product Description & SEO Writer
+# 📫 Connect
 
-AI-powered WordPress Plugin & Shopify App
-
-- AI Content Generation
-- Bulk Product Description
-- SEO Optimization
-- Subscription Billing
-
----
-
-### 📹 AI CCTV Monitoring SaaS
-
-Features
-
-- Live Monitoring
-- Motion Detection
-- Face Recognition
-- Vehicle Detection
-- Push Notifications
-
----
-
-# 📚 Currently Learning
-
-- Laravel 12
-- AI Agents
-- MCP
-- Advanced React
-- Kubernetes
-- System Design
-
----
-
-# 🌎 Connect With Me
-
-- GitHub: https://github.com/pradosh79
-
----
-
-# 💬 Favorite Quote
-
-> "Code. Learn. Build. Repeat."
+- 💼 Open to Full Stack Development opportunities
+- 🌍 Passionate about AI & Cloud Technologies
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my projects, don't forget to star them!
+### "Great software is built through continuous learning and consistent execution."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
 ```
